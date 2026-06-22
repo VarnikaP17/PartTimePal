@@ -1,4 +1,4 @@
-# 🚀 PathTimePal
+# 🚀 PartTimePal
 
 PathTimePal is a full-stack job marketplace platform that connects job seekers and recruiters through intelligent job matching, real-time communication, and machine learning-powered recommendations.
 
